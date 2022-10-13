@@ -1,4 +1,4 @@
-# Script Title
+# Alarm Clock
 A small python program that creates an alarm clock and a digital clock using tkinter library
 
 ### Prerequisites
